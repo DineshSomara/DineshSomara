@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DineshSomara
 - 👀 I’m interested in Python programming and Web Development.
-- 🌱 I’m currently learning Dictionaries in Python
+- 🌱 I’m currently learning React
 - 📫 How to reach me ---> My mail : dineshsomara@gmail.com
 
 <!---
