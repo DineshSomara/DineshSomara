@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DineshSomara
 - 👀 I’m interested in Python programming and Web Development.
 - 🌱 I’m currently learning React
-- 📫 How to reach me ---> My mail : dineshsomara@gmail.com
+- 📫 How to reach me ---> My mail : dineshchowdary0405@gmail.com
 
 <!---
 DineshSomara/DineshSomara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
