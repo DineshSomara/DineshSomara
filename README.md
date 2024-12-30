@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DineshSomara
 - 👀 I’m interested in Python programming and Web Development.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me ---> My mail : dineshchowdary0405@gmail.com
 
 <!---
